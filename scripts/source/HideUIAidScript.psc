@@ -2,12 +2,6 @@ ScriptName HideUIAidScript extends  ActiveMagicEffect
 {Switches UI modes, showing only the crosshair.}
 ;fadingsignal 2016
 
-;==========================================================================
-;
-; YOU SNEAKY SAUSAGE!  I SEE YOU!  That's OK, I learned a lot from reverse-engineering other's code :P
-;
-;==========================================================================
-
 GlobalVariable Property CurrentHUDState Auto
 GlobalVariable Property ConfigHUDMode Auto
 GlobalVariable Property ConfigHUDStyle Auto
